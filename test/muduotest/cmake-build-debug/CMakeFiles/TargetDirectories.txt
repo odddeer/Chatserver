@@ -1,0 +1,3 @@
+/home/kent/qq/test/muduotest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kent/qq/test/muduotest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kent/qq/test/muduotest/cmake-build-debug/CMakeFiles/demo.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++   -g -g   CMakeFiles/demo.dir/muduo_server.cpp.o CMakeFiles/demo.dir/home/kent/qq/src/client/main.cpp.o  -o ../bin/demo  -L/usr/local/lib -rdynamic -lmuduo_net -lmuduo_base -lpthread -Wl,-rpath,/usr/local/lib 
